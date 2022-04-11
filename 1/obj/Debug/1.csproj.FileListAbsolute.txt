@@ -1,0 +1,10 @@
+C:\Users\win102021\source\repos\1\1\obj\Debug\1.csproj.AssemblyReference.cache
+C:\Users\win102021\source\repos\1\1\obj\Debug\_1.Form1.resources
+C:\Users\win102021\source\repos\1\1\obj\Debug\_1.Properties.Resources.resources
+C:\Users\win102021\source\repos\1\1\obj\Debug\1.csproj.GenerateResource.cache
+C:\Users\win102021\source\repos\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\win102021\source\repos\1\1\bin\Debug\1.exe.config
+C:\Users\win102021\source\repos\1\1\bin\Debug\1.exe
+C:\Users\win102021\source\repos\1\1\bin\Debug\1.pdb
+C:\Users\win102021\source\repos\1\1\obj\Debug\1.exe
+C:\Users\win102021\source\repos\1\1\obj\Debug\1.pdb
